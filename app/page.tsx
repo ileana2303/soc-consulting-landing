@@ -263,7 +263,18 @@ export default function Home() {
 
                 <div className="mt-5 border-t border-white/10 pt-5">
                   <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Εταιρική ιστοσελίδα</p>
-                  <p className="mt-3 text-sm font-medium text-white/70">https://www.soc-consulting.gr/</p>
+                  <p className="mt-3 text-sm font-medium text-white/70">
+                    <a
+                      href="https://www.soc-consulting.gr/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
+                      aria-label="Επίσκεψη της ιστοσελίδας της SOC Consulting"
+                    >
+                      https://www.soc-consulting.gr/
+                      <ArrowUpRight className="h-4 w-4" />
+                    </a>
+                  </p>
                 </div>
               </article>
             </div>
