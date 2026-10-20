@@ -246,35 +246,35 @@ export default function Home() {
                   <div className="rounded-2xl bg-white/[0.04] p-5">
                     <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Διαχειριστής</p>
                     <p className="mt-3 font-semibold">Πλούσας Σωκράτης</p>
-                    <div className="mt-4 border-t border-white/10 pt-4">
-                      <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Email</p>
-                      <a
-                        href="mailto:sploussa@gmail.com"
-                        className="mt-2 inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
-                        aria-label="Αποστολή email στο sploussa@gmail.com"
-                      >
-                        sploussa@gmail.com
-                        <ArrowUpRight className="h-4 w-4" />
-                      </a>
-                    </div>
                   </div>
-
                 </div>
 
-                <div className="mt-5 border-t border-white/10 pt-5">
-                  <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Εταιρική ιστοσελίδα</p>
-                  <p className="mt-3 text-sm font-medium text-white/70">
+                <div className="mt-5 grid gap-5 border-t border-white/10 pt-5 sm:grid-cols-2">
+                  <div className="rounded-2xl bg-white/[0.04] p-5">
+                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Email</p>
+                    <a
+                      href="mailto:sploussa@gmail.com"
+                      className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
+                      aria-label="Αποστολή email στο sploussa@gmail.com"
+                    >
+                      sploussa@gmail.com
+                      <ArrowUpRight className="h-4 w-4" />
+                    </a>
+                  </div>
+
+                  <div className="rounded-2xl bg-white/[0.04] p-5">
+                    <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Εταιρική ιστοσελίδα</p>
                     <a
                       href="https://www.soc-consulting.gr/"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
+                      className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
                       aria-label="Επίσκεψη της ιστοσελίδας της SOC Consulting"
                     >
                       https://www.soc-consulting.gr/
                       <ArrowUpRight className="h-4 w-4" />
                     </a>
-                  </p>
+                  </div>
                 </div>
               </article>
             </div>
