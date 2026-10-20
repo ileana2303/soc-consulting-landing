@@ -227,7 +227,7 @@ export default function Home() {
             <div className="lg:sticky lg:top-28 lg:self-start">
               <p className="text-xs font-extrabold uppercase tracking-[0.22em] text-coral">Εταιρικά στοιχεία</p>
               <h2 className="mt-5 font-serif text-4xl leading-tight tracking-[-0.04em] sm:text-6xl">
-                Διαφάνεια στα εταιρικά στοιχεία.
+                Επικοινωνήστε μαζί μας για περισσότερες πληροφορίες.
               </h2>
               <p className="mt-6 max-w-md text-base leading-7 text-white/55">
                 Τα βασικά στοιχεία μητρώου, διοίκησης και εταιρικής συμμετοχής της SOC Consulting.
