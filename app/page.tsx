@@ -263,7 +263,7 @@ export default function Home() {
 
                 <div className="mt-5 border-t border-white/10 pt-5">
                   <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Εταιρική ιστοσελίδα</p>
-                  <p className="mt-3 text-sm font-medium text-white/70">to be announced</p>
+                  <p className="mt-3 text-sm font-medium text-white/70">https://www.soc-consulting.gr/</p>
                 </div>
               </article>
             </div>
