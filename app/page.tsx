@@ -246,6 +246,17 @@ export default function Home() {
                   <div className="rounded-2xl bg-white/[0.04] p-5">
                     <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Διαχειριστής</p>
                     <p className="mt-3 font-semibold">Πλούσας Σωκράτης</p>
+                    <div className="mt-4 border-t border-white/10 pt-4">
+                      <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/40">Email</p>
+                      <a
+                        href="mailto:sploussa@gmail.com"
+                        className="mt-2 inline-flex items-center gap-2 text-sm font-semibold text-coral transition hover:text-white"
+                        aria-label="Αποστολή email στο sploussa@gmail.com"
+                      >
+                        sploussa@gmail.com
+                        <ArrowUpRight className="h-4 w-4" />
+                      </a>
+                    </div>
                   </div>
 
                 </div>
