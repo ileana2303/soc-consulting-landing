@@ -82,7 +82,7 @@ export default function Home() {
           </nav>
 
           <a href="#company" className="header-cta">
-            Εταιρικά στοιχεία
+            Contact us!
             <ArrowUpRight className="h-4 w-4" />
           </a>
         </div>
