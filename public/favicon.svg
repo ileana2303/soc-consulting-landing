@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SOC Consulting">
+  <rect width="64" height="64" rx="18" fill="#20182f"/>
+  <path d="M27 20c-3.5-4-11.5-4.5-15-.2-3.7 4.6-.3 9.1 7.6 11.6 7.5 2.4 10.7 6.1 7.4 11.4-3.2 5.1-11.8 5.3-16 .2" fill="none" stroke="#f6f0e5" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 21c-3.8-4-10.7-4.8-15-.8-4.6 3.1-6.5 7.4-6.5 11.8s1.9 8.7 6.5 11.8c4.3 3 11.2 2.2 15-.8" fill="none" stroke="#eb684f" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="4.2" fill="#a9bf68"/>
+</svg>
